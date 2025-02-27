@@ -1,6 +1,4 @@
-hello  1234
-ringa ringa reyy
-apidpodu podu podu
-oodraoo odraooo
-suangani suranganki 
-aladsu alladsu
+Rings
+Special Rings 
+Ring of Wars
+Ring of Stars
